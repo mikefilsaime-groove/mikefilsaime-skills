@@ -1,0 +1,9 @@
+[submodule "automation/kits/social-media-triage-kit"]
+	path = automation/kits/social-media-triage-kit
+	url = https://github.com/mikefilsaime-groove/social-media-triage-kit.git
+[submodule "automation/kits/ai-inbox-triage-kit"]
+	path = automation/kits/ai-inbox-triage-kit
+	url = https://github.com/mikefilsaime-groove/ai-inbox-triage-kit.git
+[submodule "media/kits/yt-dlp-superpowers"]
+	path = media/kits/yt-dlp-superpowers
+	url = https://github.com/mikefilsaime-groove/yt-dlp-superpowers.git

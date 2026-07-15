@@ -7,6 +7,7 @@ These are public-facing summaries of reusable AI skills. They are intentionally 
 - [AEO audit](aeo-audit.md)
 - [SEO audit](seo-audit.md)
 - [Mobile responsive](mobile-responsive.md)
+- [Stickman VSL Director](stickman-vsl-director.md)
 
 ## Publishing Pattern
 

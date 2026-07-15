@@ -7,3 +7,6 @@
 [submodule "media/kits/yt-dlp-superpowers"]
 	path = media/kits/yt-dlp-superpowers
 	url = https://github.com/mikefilsaime-groove/yt-dlp-superpowers.git
+[submodule "media/kits/stickman-vsl-director"]
+	path = media/kits/stickman-vsl-director
+	url = https://github.com/mikefilsaime-groove/stickman-vsl-director.git

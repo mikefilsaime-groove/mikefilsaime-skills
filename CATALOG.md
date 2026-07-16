@@ -9,7 +9,7 @@ This catalog groups Mike Filsaime's public AI skills, automation kits, and workf
 | [social-media-triage-kit](automation/kits/social-media-triage-kit) | Social automation | A public kit for social media triage patterns and follow-up workflows. |
 | [ai-inbox-triage-kit](automation/kits/ai-inbox-triage-kit) | Inbox automation | A sanitized AI inbox triage kit for Gmail, Notion, Codex, and Claude Code. |
 | [yt-dlp-superpowers](media/kits/yt-dlp-superpowers) | Media workflows | A Claude/Codex skill pack built downstream of yt-dlp for transcripts, WhisperX fallback, and frame-based video watching. |
-| [stickman-vsl-director](media/kits/stickman-vsl-director) | Visual production | Turns VSL scripts into timed slide manifests with exact voiceover mapping, art direction, and GPT Image 2 prompts. [Open the live portal](https://stickman-vsl-director.mikefilsaime.chatgpt.site). |
+| [stickman-vsl-director](media/kits/stickman-vsl-director) | Visual production | Turns VSL scripts into timed slide manifests with exact voiceover mapping and a choice of two complete art-direction workflows. [Compare the storyboards](https://stickman-vsl-director.mikefilsaime.chatgpt.site/#styles). |
 
 ## Public Skill Summaries
 

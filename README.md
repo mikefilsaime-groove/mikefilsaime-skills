@@ -11,7 +11,7 @@ This repository is the front door. Some resources live directly here as public-r
 | [social-media-triage-kit](automation/kits/social-media-triage-kit) | Automation kit | Social media inbox and follow-up triage workflows | Included submodule |
 | [ai-inbox-triage-kit](automation/kits/ai-inbox-triage-kit) | Automation kit | Gmail, Notion, Codex, and Claude Code inbox triage | Included submodule |
 | [yt-dlp-superpowers](media/kits/yt-dlp-superpowers) | Media skill pack | Transcripts, WhisperX fallback, and video inspection workflows | Included submodule |
-| [stickman-vsl-director](media/kits/stickman-vsl-director) | Visual production skill | Turns VSL scripts into timed image storyboards with exact voiceover ownership and GPT Image 2 prompts | Included submodule · [Live portal](https://stickman-vsl-director.mikefilsaime.chatgpt.site) |
+| [stickman-vsl-director](media/kits/stickman-vsl-director) | Visual production skill | Turns VSL scripts into timed storyboards in either Simple & Cute or Full-Color & Expressive art direction | Included submodule · [Compare styles](https://stickman-vsl-director.mikefilsaime.chatgpt.site/#styles) |
 | [AEO audit](skills/aeo-audit.md) | Skill | AI answer visibility across Google AI features, ChatGPT, Perplexity, Claude, Gemini, and related answer engines | Public summary |
 | [SEO audit](skills/seo-audit.md) | Skill | Technical SEO, on-page search quality, crawlability, metadata, and structured data | Public summary |
 | [Mobile responsive](skills/mobile-responsive.md) | Skill | Mobile UX, responsive layouts, touch targets, and mobile performance checks | Public summary |

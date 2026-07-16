@@ -6,6 +6,8 @@ Stickman VSL Director turns a video sales letter, narration, transcript, or voic
 - [Source repository](https://github.com/mikefilsaime-groove/stickman-vsl-director)
 - [Included skill package](../media/kits/stickman-vsl-director)
 - [Analyzed YouTube example](https://www.youtube.com/watch?v=nv7HuwnofW0)
+- [Model-ready character and style reference](../media/kits/stickman-vsl-director/references/style-atlas/model-ready-character-style-reference.pdf)
+- [Complete 233-slide visual atlas](../media/kits/stickman-vsl-director/references/style-atlas/original-video-complete-slide-atlas.pdf)
 
 ## Problem It Solves
 
@@ -24,8 +26,9 @@ A normal image prompt does not explain when the image appears, what voiceover it
 3. Give every slide one visual and persuasive job.
 4. Choose the clearest layout: scene, contrast, grid, timeline, map, metaphor, or diagram.
 5. Write the exact voiceover assignment and generation-ready prompt.
-6. Generate with GPT Image 2 through Codex by default, or use a deliberately selected alternate route.
-7. Validate continuity and optionally render the timed slideshow.
+6. Route the palette lock plus 2–4 relevant character, environment, or layout references from the visual atlas.
+7. Generate with GPT Image 2 through Codex by default, or use a deliberately selected alternate route.
+8. Validate continuity, present the complete storyboard for approval, and render only after explicit approval.
 
 ## Output
 
@@ -40,7 +43,9 @@ GPT Image 2 through the Codex subscription is the default. The skill does not si
 - Preserve the spoken script unless the user asks for copy editing.
 - Do not cut only by word count; use meaning and emotion.
 - Do not mix models casually because it introduces style drift.
+- Do not attach the 20-page atlas to every image request; select only the relevant curated pages or individual frames.
 - Validate the style anchor and proof slides before a large paid batch.
+- Always stop at the storyboard review gate and obtain explicit approval before rendering video.
 - Keep the heading **Voiceover reads on this image** in the human-readable manifest.
 
 ## Example Prompt

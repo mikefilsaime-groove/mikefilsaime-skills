@@ -20,6 +20,7 @@ This catalog groups Mike Filsaime's public AI skills, automation kits, and workf
 | [SEO audit](skills/seo-audit.md) | Search visibility | Audits public pages for SEO fundamentals and modern web standards. | Add examples and a checklist. |
 | [Mobile responsive](skills/mobile-responsive.md) | Mobile optimization | Improves mobile UX, responsive layouts, and mobile performance. | Add responsive QA workflow and examples. |
 | [Stickman VSL Director](skills/stickman-vsl-director.md) | Visual production | Directs a complete image-by-image VSL storyboard and production timeline. | Published as a standalone repository and included submodule. |
+| [YouTube Growth OS](skills/youtube-growth-os.md) | Creator operations | Runs local-first multi-channel YouTube optimization, experiments, transcripts, Clips, Shorts, and durable workflow history. | Available through the authenticated companion and private release channel. |
 
 ## Candidate Categories
 
@@ -30,6 +31,7 @@ This catalog groups Mike Filsaime's public AI skills, automation kits, and workf
 - Email inbox triage and executive workflow cleanup.
 - Media download, transcript, and video-inspection workflows.
 - Browser extensions and reusable browser tools.
+- YouTube creator operations and multi-channel growth workflows.
 - Sales, offers, funnels, and customer intelligence skills.
 
 ## Publishing Rule

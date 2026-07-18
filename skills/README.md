@@ -8,6 +8,7 @@ These are public-facing summaries of reusable AI skills. They are intentionally 
 - [SEO audit](seo-audit.md)
 - [Mobile responsive](mobile-responsive.md)
 - [Stickman VSL Director](stickman-vsl-director.md)
+- [YouTube Growth OS](youtube-growth-os.md)
 
 ## Publishing Pattern
 

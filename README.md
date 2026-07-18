@@ -4,6 +4,8 @@ A public hub for reusable AI skills, automation kits, and workflow superpowers c
 
 This repository is the front door. Some resources live directly here as public-ready skill notes and templates. Larger projects stay in their own repositories and are included here as Git submodules.
 
+The interactive portal source is in [portal/](portal/). It provides an accessible, tabbed overview of the collection and direct links to each project's source.
+
 ## Featured Resources
 
 | Resource | Type | What It Helps With | Status |

@@ -12,6 +12,7 @@ This repository is the front door. Some resources live directly here as public-r
 | [ai-inbox-triage-kit](automation/kits/ai-inbox-triage-kit) | Automation kit | Gmail, Notion, Codex, and Claude Code inbox triage | Included submodule |
 | [yt-dlp-superpowers](media/kits/yt-dlp-superpowers) | Media skill pack | Transcripts, WhisperX fallback, and video inspection workflows | Included submodule |
 | [stickman-vsl-director](media/kits/stickman-vsl-director) | Visual production skill | Turns VSL scripts into timed storyboards in either Simple & Cute or Full-Color & Expressive art direction | Included submodule · [Compare styles](https://stickman-vsl-director.mikefilsaime.chatgpt.site/#styles) |
+| [Video Speed Presets](browser/kits/video-speed-chrome-extension) | Browser extension | Draggable, hover-to-reveal speed presets for HTML5 video on Chrome and other Chromium browsers | Included submodule |
 | [AEO audit](skills/aeo-audit.md) | Skill | AI answer visibility across Google AI features, ChatGPT, Perplexity, Claude, Gemini, and related answer engines | Public summary |
 | [SEO audit](skills/seo-audit.md) | Skill | Technical SEO, on-page search quality, crawlability, metadata, and structured data | Public summary |
 | [Mobile responsive](skills/mobile-responsive.md) | Skill | Mobile UX, responsive layouts, touch targets, and mobile performance checks | Public summary |
@@ -21,6 +22,7 @@ This repository is the front door. Some resources live directly here as public-r
 - [Catalog](CATALOG.md): the full index of public kits, local skills, and next candidates.
 - [Skills](skills/README.md): public summaries of individual AI skills.
 - [Automation](automation/README.md): sanitized automation kit links and publishing rules.
+- [Browser](browser/README.md): browser extensions and reusable browser tools.
 - [Media](media/README.md): media workflow resources.
 - [Templates](templates/): reusable templates for publishing future skills safely.
 - [Public safety checklist](templates/publication-checklist.md): preflight before making a skill public.

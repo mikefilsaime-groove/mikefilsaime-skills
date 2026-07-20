@@ -10,6 +10,9 @@
 [submodule "media/kits/stickman-vsl-director"]
 	path = media/kits/stickman-vsl-director
 	url = https://github.com/mikefilsaime-groove/stickman-vsl-director.git
+[submodule "media/kits/claude-codex-youtube-video-editor"]
+	path = media/kits/claude-codex-youtube-video-editor
+	url = https://github.com/hassancs91/claude-youtube-editor.git
 [submodule "browser/kits/video-speed-chrome-extension"]
 	path = browser/kits/video-speed-chrome-extension
 	url = https://github.com/mikefilsaime-groove/ChromeExtension.git

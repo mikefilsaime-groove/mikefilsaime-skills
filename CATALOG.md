@@ -8,6 +8,7 @@ This catalog groups Mike Filsaime's public AI skills, automation kits, and workf
 | --- | --- | --- |
 | [AI Skills Hub](https://mike-ai-skills-hub.mikefilsaime.chatgpt.site/) | Master directory | The front door to the complete public collection. |
 | [Caveman Copy Hub](https://caveman-copy-hub.mikefilsaime.chatgpt.site/) | Product messaging system | A six-skill framework for product copy, feature showcases, complete websites, and visual proof. |
+| [Checkout Page Skill Hub](https://checkout-page-skill-hub.mikefilsaime.chatgpt.site/) | Conversion and payment safety | An installable checkout skill for improving pages and mobile flows while protecting the widget and payment plumbing. |
 | [Media Skills Hub](https://mike-media-skills-hub.mikefilsaime.chatgpt.site/) | Media directory | A verified map and router for 14 media skills, production systems, apps, and engines. |
 
 ## Public Repositories
@@ -15,6 +16,7 @@ This catalog groups Mike Filsaime's public AI skills, automation kits, and workf
 | Name | Category | Description |
 | --- | --- | --- |
 | [caveman-copy-hub](https://github.com/mikefilsaime-groove/caveman-copy-hub) | Product messaging | Complete source for the Caveman Copy system, six installable skills, the Showcase Website design specification, and its public companion hub. |
+| [checkout-page-skill-hub](https://github.com/mikefilsaime-groove/checkout-page-skill-hub) | Conversion UX | Complete source, installable download, workflow prompts, and public companion hub for the Checkout Page Skill. |
 | [social-media-triage-kit](automation/kits/social-media-triage-kit) | Social automation | A public kit for social media triage patterns and follow-up workflows. |
 | [ai-inbox-triage-kit](automation/kits/ai-inbox-triage-kit) | Inbox automation | A sanitized AI inbox triage kit for Gmail, Notion, Codex, and Claude Code. |
 | [yt-dlp-superpowers](media/kits/yt-dlp-superpowers) | Media workflows | A Claude/Codex skill pack built downstream of yt-dlp for transcripts, WhisperX fallback, and frame-based video watching. |
@@ -27,6 +29,7 @@ This catalog groups Mike Filsaime's public AI skills, automation kits, and workf
 | Skill | Category | Description | Next Step |
 | --- | --- | --- | --- |
 | [AEO audit](skills/aeo-audit.md) | AI visibility | Audits visibility in AI-generated answers and answer engines. | Publish sanitized skill package or standalone guide. |
+| [Checkout Page Skill](skills/checkout-page-skill.md) | Conversion UX | Designs and validates checkout pages while protecting registration, consent, analytics, and payment plumbing. | Public hub, source, and installable download available. |
 | [SEO audit](skills/seo-audit.md) | Search visibility | Audits public pages for SEO fundamentals and modern web standards. | Add examples and a checklist. |
 | [Mobile responsive](skills/mobile-responsive.md) | Mobile optimization | Improves mobile UX, responsive layouts, and mobile performance. | Add responsive QA workflow and examples. |
 | [Stickman VSL Director](skills/stickman-vsl-director.md) | Visual production | Directs a complete image-by-image VSL storyboard and production timeline. | Published as a standalone repository and included submodule. |

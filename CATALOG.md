@@ -2,6 +2,13 @@
 
 This catalog groups Mike Filsaime's public AI skills, automation kits, and workflow superpowers by use case.
 
+## Public Hubs
+
+| Name | Scope | Description |
+| --- | --- | --- |
+| [AI Skills Hub](https://mike-ai-skills-hub.mikefilsaime.chatgpt.site/) | Master directory | The front door to the complete public collection. |
+| [Media Skills Hub](https://mike-media-skills-hub.mikefilsaime.chatgpt.site/) | Media directory | A verified map and router for 14 media skills, production systems, apps, and engines. |
+
 ## Public Repositories
 
 | Name | Category | Description |

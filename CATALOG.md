@@ -7,12 +7,14 @@ This catalog groups Mike Filsaime's public AI skills, automation kits, and workf
 | Name | Scope | Description |
 | --- | --- | --- |
 | [AI Skills Hub](https://mike-ai-skills-hub.mikefilsaime.chatgpt.site/) | Master directory | The front door to the complete public collection. |
+| [Caveman Copy Hub](https://caveman-copy-hub.mikefilsaime.chatgpt.site/) | Product messaging system | A six-skill framework for product copy, feature showcases, complete websites, and visual proof. |
 | [Media Skills Hub](https://mike-media-skills-hub.mikefilsaime.chatgpt.site/) | Media directory | A verified map and router for 14 media skills, production systems, apps, and engines. |
 
 ## Public Repositories
 
 | Name | Category | Description |
 | --- | --- | --- |
+| [caveman-copy-hub](https://github.com/mikefilsaime-groove/caveman-copy-hub) | Product messaging | Complete source for the Caveman Copy system, six installable skills, the Showcase Website design specification, and its public companion hub. |
 | [social-media-triage-kit](automation/kits/social-media-triage-kit) | Social automation | A public kit for social media triage patterns and follow-up workflows. |
 | [ai-inbox-triage-kit](automation/kits/ai-inbox-triage-kit) | Inbox automation | A sanitized AI inbox triage kit for Gmail, Notion, Codex, and Claude Code. |
 | [yt-dlp-superpowers](media/kits/yt-dlp-superpowers) | Media workflows | A Claude/Codex skill pack built downstream of yt-dlp for transcripts, WhisperX fallback, and frame-based video watching. |

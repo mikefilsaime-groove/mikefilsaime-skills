@@ -10,6 +10,7 @@ The interactive portal source is in [portal/](portal/). It provides an accessibl
 
 | Resource | Type | What It Helps With | Status |
 | --- | --- | --- | --- |
+| [Caveman Copy Hub](https://caveman-copy-hub.mikefilsaime.chatgpt.site/) | Product messaging system | Turns features into clear reasons to buy using six coordinated copy, showcase, website, and visual-proof skills | Public companion hub · [Source](https://github.com/mikefilsaime-groove/caveman-copy-hub) |
 | [Media Skills Hub](https://mike-media-skills-hub.mikefilsaime.chatgpt.site/) | Media stack directory | Routes media requests across 14 mapped skills, production systems, apps, and engines | Public companion hub |
 | [social-media-triage-kit](automation/kits/social-media-triage-kit) | Automation kit | Social media inbox and follow-up triage workflows | Included submodule |
 | [ai-inbox-triage-kit](automation/kits/ai-inbox-triage-kit) | Automation kit | Gmail, Notion, Codex, and Claude Code inbox triage | Included submodule |

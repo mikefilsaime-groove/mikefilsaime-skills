@@ -4,6 +4,7 @@ These are public-facing summaries of reusable AI skills. They are intentionally 
 
 ## Current Skill Summaries
 
+- [Caveman Copy system](caveman-copy-system.md)
 - [AEO audit](aeo-audit.md)
 - [SEO audit](seo-audit.md)
 - [Mobile responsive](mobile-responsive.md)

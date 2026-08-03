@@ -40,10 +40,11 @@ The public comparison uses the same two-minute voiceover and identical 23-slide 
 7. Route only the selected profile's reference pack.
 8. Generate with GPT Image 2 through Codex by default, or use a deliberately selected alternate route.
 9. Validate continuity, present the complete storyboard for approval, and render only after explicit approval.
+10. Allocate explicit CFR frames to every approved slide and reject the MP4 unless frame count, slide keyframes, decoded start/mid/end samples, and full-stream decoding all pass.
 
 ## Output
 
-The primary deliverable is a numbered slide manifest. Each slide includes its in/out timing, exact voiceover text, concept, narrative function, expression direction, layout, image prompt, continuity constraints, and production status.
+The primary deliverable is a numbered slide manifest. Each slide includes its in/out timing, exact voiceover text, concept, narrative function, expression direction, layout, image prompt, continuity constraints, and production status. When video is rendered, the skill also creates frame-allocation and verification reports proving every storyboard slide survived the encode.
 
 ## Default Generation Route
 
@@ -58,6 +59,7 @@ GPT Image 2 through the Codex subscription is the default. The skill does not si
 - Do not attach the 20-page atlas to every image request; select only the relevant curated pages or individual frames.
 - Validate the style anchor and proof slides before a large paid batch.
 - Always stop at the storyboard review gate and obtain explicit approval before rendering video.
+- Never accept a video from duration and codec checks alone. Require exact CFR frame count, one slide-start keyframe per approved image, three decoded source-image checks per slide, and a clean full decode.
 - Keep the heading **Voiceover reads on this image** in the human-readable manifest.
 
 ## Example Prompt
